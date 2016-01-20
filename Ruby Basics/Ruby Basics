@@ -1,0 +1,33 @@
+Ruby Basics
+
+ruby - v == checks version
+irb == goes into interactive ruby basics
+terminal call ruby then script to run
+
+puts //print string
+gets // get the user input
+
+VARIABLES
+	#{name} -inside string otherwise works like python
+
+STRING MANIPULATION
+	single quotes/ %q() = excat code
+	double qoutes /%Q = interpreted language
+	\n \t ect...
+
+	.upcase == all caps
+	.downcase == lowercase
+	.reverse == reverse the string
+	.class ==class name checks
+		
+MATH
+	+, - , *, /, **(exponent), %(modulus)
+
+METHODS
+def name
+
+end
+
+
+COMMENTS
+# JUST LIKE PYTHON
